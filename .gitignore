@@ -1,0 +1,5 @@
+node_modules/
+.env
+Update.bat
+Data/
+Data/**
